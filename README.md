@@ -7,7 +7,9 @@ This project is to develop and improve current codes to have semantic HTML eleme
 https://jessibewu.github.io/Horiseon/
 
 <h2>Usage </h2>
-Below is a screenshot of the application: ![alt text](./assets/images/screenshot.png) 
+Below is a screenshot of the application: 
+
+![alt text](./assets/images/screenshot.png) 
 
 <h2>Credits: </h2>
 https://courses.bootcampspot.com/
