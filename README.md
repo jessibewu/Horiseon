@@ -1,11 +1,17 @@
-Description for this development project: </br>
--to have semantic HTML elements </br>
--to have elements follow a logical structure independent of styling and positioning </br>
--to have accessible alt attributes for image elements </br>
--to have heading attributes fall in sequential order </br>
--to have a concise, descriptive title </br>
+<h1>Horiseon (Code Refactor)</h1>
 
-Link to deployed application: https://jessibewu.github.io/Horiseon/
+<h2>Description </h2></br>
+This project is to develop and improve current codes to have semantic HTML elements with a logical structure & sequential orders and accessibility. 
 
-Screenshot:
+<h2>Link to deployed application </h2></br>
+https://jessibewu.github.io/Horiseon/
+
+<h2>Usage </h2>
+Below is a screenshot of the application: </br>
 ![alt""](./assets/images/screenshot.png) 
+
+<h2>Credits: </h2>
+https://courses.bootcampspot.com/
+
+<h2>License: </h2>
+Licensed under the MIT license.
