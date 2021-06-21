@@ -1,18 +1,18 @@
-#Horiseon (Code Refactor)
+# Horiseon (Code Refactor)
 
-##Description 
+## Description 
 This project is to develop and improve current codes to have semantic HTML elements with a logical structure & sequential orders and accessibility. 
 
-##Link to deployed application 
+## Link to deployed application 
 https://jessibewu.github.io/Horiseon/
 
-##Usage 
+## Usage 
 Below is a screenshot of the application: 
 
 ![alt text](./assets/images/screenshot.png) 
 
-##Credits: 
+## Credits: 
 https://courses.bootcampspot.com/
 
-##License: 
+## License: 
 Licensed under the MIT license.
